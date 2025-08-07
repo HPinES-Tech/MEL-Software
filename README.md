@@ -6,11 +6,13 @@ MEL Software (Minecraft Experience Launcher Software) is a tool that can play Mi
 Compatibility for:
 - Windows
 - Linux GNOME (Linux with Terminal: gnome-terminal)
+- Linux Xfce (Linux with Terminal: xfce4-terminal)
 
 # Usage
 - Phone: Need to enable "USB Debugging" in settings.
 - Windows: Run "Launcher.bat"
-- Linux (GNOME): Place "MEL-for-Linux-GNOME" folder in /home/$user_folder$/Downloads/MEL-Software/Linux/GNOME and run "Launcher (.desktop)"
+- Linux GNOME: Place "MEL-for-Linux-GNOME" folder in /home/$user_folder$/Downloads/MEL-Software/Linux/GNOME and run "Launcher (.desktop)"
+- Linux Xfce: Place "MEL-for-Linux-Xfce" folder in /home/$user_folder$/Downloads/MEL-Software/Linux/Xfce and run "Launcher.desktop"
 
 # Downloads
 - Github (here): https://github.com/HPinES-Tech/MEL-Software/releases/tag/Release
