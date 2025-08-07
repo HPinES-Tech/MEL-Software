@@ -19,6 +19,8 @@ Compatibility for:
 - Linux GNOME (Linux with Terminal: gnome-terminal)
 - Linux Xfce (Linux with Terminal: xfce4-terminal)
 
+Other OS Coming Soon...
+
 # Usage
 - Phone: Need to enable "USB Debugging" in settings.
 - Windows: Run "Launcher.bat"
