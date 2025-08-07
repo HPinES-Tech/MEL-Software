@@ -1,6 +1,7 @@
 # MEL Software
 MEL Software (Minecraft Experience Launcher Software) is a tool that can play Minecraft PE on your phone via computer. (Android Phone Only)
 
+![Play Minecraft on Phone via PC](https://github.com/HPinES-Tech/MEL-Software/blob/main/Play%20Mincraft%20in%20phone%20via%20PC.png?raw=true)
 # Testing:
 - Tested on:
   + Phone:
@@ -12,7 +13,6 @@ MEL Software (Minecraft Experience Launcher Software) is a tool that can play Mi
     * Linux GNOME: Linux Mint Cinnamon 22.1
     * Linux Xfce: Xubuntu 24.04.2 LTS
 
-![Play Minecraft on Phone via PC](https://github.com/HPinES-Tech/MEL-Software/blob/main/Play%20Mincraft%20in%20phone%20via%20PC.png?raw=true)
 # Compatibility
 Compatibility for:
 - Windows
