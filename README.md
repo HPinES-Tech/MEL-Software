@@ -31,5 +31,3 @@ Other OS Coming Soon...
 - Github (here): https://github.com/HPinES-Tech/MEL-Software/releases/tag/Release
 - Google Drive: https://drive.google.com/drive/folders/1540eysuTqnNtTqn7D3G1dtAwrOY2tkKs?usp=drive_link
 - Mediafire: https://www.mediafire.com/folder/qenlen72byyrl/MEL-Software
-
-   - Note: Untested on bad cable, may experience reduced gameplay (A Launcher for bad cable will be released in Release 1.0)
