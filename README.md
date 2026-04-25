@@ -9,7 +9,7 @@ Before installing this tool, you must know that:
 - This tool is **NOT** yet available on Apple devices due to software limitations.
 - This tool is in stages of **ALPHA.** It's not fully stable. You can head down to the [Troubleshooting section](https://github.com/HPinES-Tech/MEL-Software#troubleshooting) to fix it.
 - This tool is **NOT** a virus. It is 100% safe to use since the file only runs scrcpy, adb, and echo commands. It does not forward your data to some server.
-- This tool can have a long time updating due to Linux distrobutions support and timezones. (Linux support will soon might drop out)
+- This tool can have a long time updating due to Linux distrobutions support and timezones. (Linux support will soon might drop out in future updates)
 
 Download it here: https://github.com/HPinES-Tech/MEL-Software/releases/tag/Alpha
 
