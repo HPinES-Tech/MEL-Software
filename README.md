@@ -64,8 +64,7 @@ Android: Go to developer settings and change the DPI to your device's normal DPI
 
 Windows/Linux (using adb):
 If your phone screen is severely out of order, then please use the commands below.
-
-For Windows: use "cd" to your directory where the Tools folder can be found, it is all you need to troubleshoot your problems
+- For Windows: use "cd" to your directory where the Tools folder can be found, it is all you need to troubleshoot your problems
 
 ```bash
 # This command lets you use your PC's keyboard/mouse on the device. (if you softlocked it)
