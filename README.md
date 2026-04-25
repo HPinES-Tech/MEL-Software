@@ -14,7 +14,7 @@ Download it here: https://github.com/HPinES-Tech/MEL-Software/releases/tag/Alpha
 
 This warning section will be removed once we move onto a stable release.
 
-# Testing:
+# Testing
 This is all the following Android devices and computers that we have tested on.
 
 - Androids:
