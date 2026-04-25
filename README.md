@@ -18,34 +18,34 @@ This warning section will be removed once we move onto a stable release.
 This is all the following Android devices and computers that we have tested on.
 
 - Androids:
-  - Samsung Galaxy Note 9
-    - Model: SM-N960N
-    - OS: Noble ROM 4.3 CALABRIA - OneUI 6.1.1 (Android 14)
   + Nothing Phone (2a)
     + Model: A142
     + OS: NothingOS 4.0 (Android 16)
+  - Samsung Galaxy Note 9
+    - Model: SM-N960N
+    - OS: Noble ROM 4.3 CALABRIA - OneUI 6.1.1 (Android 14)
 
 - OSes:
     - Windows
-      - Windows 10 22H2 - Home Single Language
-        - CPU: Intel Pentium N3710
-        - GPU: Intel HD Graphics 405
-        - RAM: 8 GB of DDR3
       - Windows 11 25H2 - Home (AtlasOS)
         - CPU: Intel 11th Generation Core i5-11400H
         - GPU: Nvidia GeForce GTX 1650 with Max-Q Design
         - RAM: 8 GB of DDR4
+      - Windows 10 22H2 - Home Single Language
+        - CPU: Intel Pentium N3710
+        - GPU: Intel HD Graphics 405
+        - RAM: 8 GB of DDR3
       - Windows 7 - Ultimate (requires [Vxkex](https://github.com/i486/VxKex) to use)
         - CPU: Intel Pentium N3710
         - GPU: Intel HD Graphics 405
         - RAM: 8 GB of DDR3
 
     - Linux
-      - Linux Mint Cinnamon 22.1 (GNOME)
+      - Xubuntu 24.04.2 LTS (Xfce)
         - CPU: Intel Pentium N3710
         - GPU: Intel HD Graphics 405
         - RAM: 8 GB of DDR3
-      - Xubuntu 24.04.2 LTS (Xfce)
+      - Linux Mint Cinnamon 22.1 (GNOME)
         - CPU: Intel Pentium N3710
         - GPU: Intel HD Graphics 405
         - RAM: 8 GB of DDR3
