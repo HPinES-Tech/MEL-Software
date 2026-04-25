@@ -10,8 +10,9 @@ Before installing this tool, you must know that:
 - This tool is in stages of **ALPHA.** It's not fully stable. You can head down to the [Troubleshooting section](https://github.com/HPinES-Tech/MEL-Software#troubleshooting) to fix it.
 - This tool is **NOT** a virus. It is 100% safe to use since the file only runs scrcpy, adb, and echo commands. It does not forward your data to some server.
 
-Download it here:
-https://github.com/HPinES-Tech/MEL-Software/releases/tag/Alpha
+Download it here: https://github.com/HPinES-Tech/MEL-Software/releases/tag/Alpha
+
+This warning section will be removed once we move onto a stable release.
 
 # Testing:
 This is all the following Android devices and computers that we have tested on.
