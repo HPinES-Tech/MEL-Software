@@ -9,6 +9,7 @@ Before installing this tool, you must know that:
 - This tool is **NOT** yet available on Apple devices due to software limitations.
 - This tool is in stages of **ALPHA.** It's not fully stable. You can head down to the [Troubleshooting section](https://github.com/HPinES-Tech/MEL-Software#troubleshooting) to fix it.
 - This tool is **NOT** a virus. It is 100% safe to use since the file only runs scrcpy, adb, and echo commands. It does not forward your data to some server.
+- This tool can have a long time updating due to Linux distrobutions.
 
 Download it here: https://github.com/HPinES-Tech/MEL-Software/releases/tag/Alpha
 
@@ -31,24 +32,29 @@ This is all the following Android devices and computers that we have tested on.
         - CPU: Intel 11th Generation Core i5-11400H
         - GPU: Nvidia GeForce GTX 1650 with Max-Q Design
         - RAM: 8 GB of DDR4
+        - Version: v.1.0.0-alpha.1
       - Windows 10 22H2 - Home Single Language
         - CPU: Intel Pentium N3710
         - GPU: Intel HD Graphics 405
         - RAM: 8 GB of DDR3
+        - Version: v.1.0.0-alpha.1
       - Windows 7 - Ultimate (requires [Vxkex](https://github.com/i486/VxKex) to use)
         - CPU: Intel Pentium N3710
         - GPU: Intel HD Graphics 405
         - RAM: 8 GB of DDR3
+        - Version: v.1.0.0-alpha.1
 
     - Linux
       - Xubuntu 24.04.2 LTS (Xfce)
         - CPU: Intel Pentium N3710
         - GPU: Intel HD Graphics 405
         - RAM: 8 GB of DDR3
+        - Version: v.1.0.0-alpha.1
       - Linux Mint Cinnamon 22.1 (GNOME)
         - CPU: Intel Pentium N3710
         - GPU: Intel HD Graphics 405
         - RAM: 8 GB of DDR3
+        - Version: v.1.0.0-alpha.1
 
 Many OSes will be added soon later in the future. For now, contact one of our (two) contributors if you have tested it on different builds of OSes and other models of Android phones.
 
