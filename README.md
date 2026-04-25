@@ -19,11 +19,17 @@ This warning section will be removed once we move onto a stable release.
 This is all the following Android devices and computers that we have tested on.
 
 - Androids:
-  + Nothing Phone (2a)
-    + Model: A142
-    + OS: NothingOS 4.0 (Android 16)
+  - Nothing Phone (2a)
+    - Model: A142
+    - Chipset/CPU: Mediatek Dimensity 7200 Pro
+    - GPU: Mali-G610 MC4
+    - RAM: 8 GB of RAM (RAM Booster: +4 GB) 
+    - OS: NothingOS 4.0 (Android 16)
   - Samsung Galaxy Note 9
     - Model: SM-N960N
+    - Chipset/CPU: Samsung Exynos 9 9810
+    - GPU: ARM Mali-G72 MP18
+    - RAM: 6 GB of RAM
     - OS: Noble ROM 4.3 CALABRIA - OneUI 6.1.1 (Android 14)
 
 - OSes:
