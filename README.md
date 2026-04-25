@@ -1,33 +1,76 @@
 # MEL Software
-MEL Software (Minecraft Experience Launcher Software) is a tool that can play Minecraft PE on your phone via computer. (Android Phone Only)
+MEL Software (Minecraft Experience Launcher Software) is a tool that can play Minecraft Bedrock on your Android phone via computer.
 
 ![Play Minecraft on Phone via PC](https://github.com/HPinES-Tech/MEL-Software/blob/main/Play%20Mincraft%20in%20phone%20via%20PC.png?raw=true)
+
+# **WARNING!**
+Before installing this tool, you must know that:
+- This tool is **NOT** yet available on Apple devices due to software limitations.
+- This tool is in **BETA.** If your Android device resolution or orientation gets changed, scroll to the bottom for some typical troubleshooting commands.
+- This tool is **NOT** a virus. It is 100% safe to use since the file only runs scrcpy, adb, and echo commands. It does not forward your data to some server.
+
 # Testing:
-- Tested on:
-  + Phone:
-    * Name: Samsung Galaxy Note9
-    * Model: SM-N960N
-    * OS: Noble ROM 4.3 CALABRIA - OneUI 6.1.1 Android 14
-  + Computer:
-    * Windows: Windows 10 22h2 - Home Single Language
-    * Linux GNOME: Linux Mint Cinnamon 22.1
-    * Linux Xfce: Xubuntu 24.04.2 LTS
+This is all the following Android devices and computers that we have tested on.
 
-# Compatibility
-Compatibility for:
-- Windows
-- Linux GNOME (Linux with Terminal: gnome-terminal)
-- Linux Xfce (Linux with Terminal: xfce4-terminal)
+- Androids:
+  - Samsung Galaxy Note 9
+    - Model: SM-N960N
+    - OS: Noble ROM 4.3 CALABRIA - OneUI 6.1.1 (Android 14)
+  + Nothing Phone (2a)
+    + Model: A142
+    + OS: NothingOS 4.0 (Android 16)
 
-Other OS Coming Soon...
+- OSes:
+    - Windows
+      - Windows 10 22H2 - Home Single Language
+        - CPU: Intel Pentium N3710
+        - GPU: Intel HD Graphics 405
+        - RAM: 8 GB of DDR3
+      - Windows 11 25H2 - Home (AtlasOS)
+        - CPU: Intel 11th Generation Core i5-11400H
+        - GPU: Nvidia GeForce GTX 1650 with Max-Q Design
+        - RAM: 8 GB of DDR4
+      - Windows 7 - Ultimate (requires [Vxkex](https://github.com/i486/VxKex) to use)
+        - CPU: Intel Pentium N3710
+        - GPU: Intel HD Graphics 405
+        - RAM: 8 GB of DDR3
+
+    - Linux
+      - Linux Mint Cinnamon 22.1 (GNOME)
+        - CPU: Intel Pentium N3710
+        - GPU: Intel HD Graphics 405
+        - RAM: 8 GB of DDR3
+      - Xubuntu 24.04.2 LTS (Xfce)
+        - CPU: Intel Pentium N3710
+        - GPU: Intel HD Graphics 405
+        - RAM: 8 GB of DDR3
+
+Many OSes will be added soon later in the future. For now, contact one of our (two) contributors if you have tested it on different builds of OSes and other models of Android phones.
 
 # Usage
-- Phone: Need to enable "USB Debugging" in settings.
-- Windows: Run "Launcher.bat"
-- Linux GNOME: Place "MEL-for-Linux-GNOME" folder in /home/$user_folder$/Downloads/MEL-Software/Linux/GNOME and run "Launcher (.desktop)"
-- Linux Xfce: Place "MEL-for-Linux-Xfce" folder in /home/$user_folder$/Downloads/MEL-Software/Linux/Xfce and run "Launcher.desktop"
+- Android: Enable "USB Debugging" in Settings, and allow your PC to make changes.
+- Windows: Extract the .zip file into anywhere ("\Documents" is recommended) and run "Launcher.bat"
+  - For Windows 7, you must use [Vxkex](https://github.com/i486/VxKex) to run the .bat file, because it has reached end of support for modern apps.
+- Linux GNOME: Extract the .zip file into anywhere ("\Documents" is recommended) and run "Launcher(.desktop)"
+- Linux Xfce: Extract the .zip file into anywhere ("\Documents" is recommended) and run "Launcher.desktop"
 
-# Downloads
-- Github (here): https://github.com/HPinES-Tech/MEL-Software/releases/tag/Beta
-- Google Drive: https://drive.google.com/drive/folders/1540eysuTqnNtTqn7D3G1dtAwrOY2tkKs?usp=drive_link
-- Mediafire: https://www.mediafire.com/folder/qenlen72byyrl/MEL-Software
+# Troubleshooting
+Android: Go to developer settings and change the DPI to your device's normal DPI (one quick Google search)
+
+Windows (using adb):
+If your phone screen is severely out of order, then please use the commands below.
+**(use "cd" to your directory where the Tools folder can be found, it is all you need to troubleshoot your problems)**
+
+```bash
+# This command lets you use your PC's keyboard/mouse on the device. (if you softlocked it)
+scrcpy --otg
+
+# This command resets the screen resolution.
+adb shell wm size reset
+
+# These commands resets the orientation type.
+adb shell settings put system user_rotation 0
+```
+
+Linux:
+i don't main drive it - p
