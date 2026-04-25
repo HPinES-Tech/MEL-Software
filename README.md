@@ -28,6 +28,6 @@ Other OS Coming Soon...
 - Linux Xfce: Place "MEL-for-Linux-Xfce" folder in /home/$user_folder$/Downloads/MEL-Software/Linux/Xfce and run "Launcher.desktop"
 
 # Downloads
-- Github (here): https://github.com/HPinES-Tech/MEL-Software/releases/tag/Release
+- Github (here): https://github.com/HPinES-Tech/MEL-Software/releases/tag/Beta
 - Google Drive: https://drive.google.com/drive/folders/1540eysuTqnNtTqn7D3G1dtAwrOY2tkKs?usp=drive_link
 - Mediafire: https://www.mediafire.com/folder/qenlen72byyrl/MEL-Software
