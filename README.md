@@ -1,13 +1,13 @@
 # MEL Software
 MEL Software (Minecraft Experience Launcher Software) is a tool that can play Minecraft Bedrock on your Android phone via computer.
-NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
 
 ![Play Minecraft on Phone via PC](https://github.com/HPinES-Tech/MEL-Software/blob/main/Play%20Mincraft%20in%20phone%20via%20PC.png?raw=true)
+NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
 
 # **WARNING!**
 Before installing this tool, you must know that:
 - This tool is **NOT** yet available on Apple devices due to software limitations.
-- This tool is in **BETA.** If your Android device resolution or orientation gets changed, scroll to the bottom for some typical troubleshooting commands.
+- This tool is in stages of **ALPHA.** It's not fully stable.
 - This tool is **NOT** a virus. It is 100% safe to use since the file only runs scrcpy, adb, and echo commands. It does not forward your data to some server.
 
 # Testing:
