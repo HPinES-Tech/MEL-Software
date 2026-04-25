@@ -62,9 +62,10 @@ Many OSes will be added soon later in the future. For now, contact one of our (t
 # Troubleshooting
 Android: Go to developer settings and change the DPI to your device's normal DPI (one quick Google search)
 
-Windows (using adb):
+Windows/Linux (using adb):
 If your phone screen is severely out of order, then please use the commands below.
-**(use "cd" to your directory where the Tools folder can be found, it is all you need to troubleshoot your problems)**
+
+For Windows: use "cd" to your directory where the Tools folder can be found, it is all you need to troubleshoot your problems
 
 ```bash
 # This command lets you use your PC's keyboard/mouse on the device. (if you softlocked it)
@@ -76,6 +77,3 @@ adb shell wm size reset
 # These commands resets the orientation type.
 adb shell settings put system user_rotation 0
 ```
-
-Linux:
-i don't main drive it - p
