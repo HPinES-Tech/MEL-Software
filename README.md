@@ -19,7 +19,7 @@ Download this software [here](https://github.com/HPinES-Tech/MEL-Software/releas
 This warning section will be removed once we move onto a stable release.
 
 # Testing
-This is all the following Android devices and computers that we have tested on.
+This is all the following Android devices and computers that we have tested on, and what version of MEL and MCPE did we test it on.
 
 - Androids:
   - Nothing Phone (2a)
@@ -29,18 +29,31 @@ This is all the following Android devices and computers that we have tested on.
     - RAM: 8 GB of RAM (RAM Booster: +4 GB) 
     - OS: NothingOS 4.0 (Android 16)
     - MCPE Version: 26.13 (1.26.13.1 – 1.26.14.1)
+    - MEL Version: v1.0.0-alpha.2 (coming soon)
   - Samsung Galaxy S23 FE
     - Model: SM-S711B
     - Chipset/CPU: Samsung Exynos 2200
     - GPU: Xclipse 920
     - RAM: 8 GB of RAM
     - OS: OneUI 7.0 (Android 15)
+    - MCPE Version: 1.21.131
+    - MEL Version: v1.0.0-alpha.1
   - Samsung Galaxy Note 9
     - Model: SM-N960N
     - Chipset/CPU: Samsung Exynos 9810
     - GPU: ARM Mali-G72 MP18
     - RAM: 6 GB of RAM
     - OS: Noble ROM 4.3 CALABRIA - OneUI 6.1.1 (Android 14)
+    - MCPE Version: 1.21.131
+    - MEL Version: v1.0.0-alpha.1
+  - Huawei Nova 2 Plus
+    - Model: BAC-TL00
+    - Chipset/CPU: Kirin 659
+    - GPU: Mali-T830 MP2
+    - RAM: 4 GB of RAM
+    - OS: EMUI 8.0.0 (Android 8)
+    - MCPE Version: 1.19.83
+    - MEL Version: Alpha v1.0.0.2 (coming soon)
 
 - OSes:
     - Windows
@@ -48,7 +61,7 @@ This is all the following Android devices and computers that we have tested on.
         - CPU: Intel 11th Generation Core i5-11400H
         - GPU: Nvidia GeForce GTX 1650 with Max-Q Design
         - RAM: 8 GB of DDR4
-        - Version: v.1.0.0-alpha.1
+        - Version: v1.0.0-alpha.2 (coming soon)
       - Windows 10 22H2 - Home Single Language
         - CPU: Intel Pentium N3710
         - GPU: Intel HD Graphics 405
@@ -58,7 +71,7 @@ This is all the following Android devices and computers that we have tested on.
         - CPU: Intel Pentium N3710
         - GPU: Intel HD Graphics 405
         - RAM: 8 GB of DDR3
-        - Version: v.1.0.0-alpha.1
+        - Version: v.1.0.0-alpha.2 (coming soon)
 
     - Linux
       - Xubuntu 24.04.2 LTS (Xfce)
