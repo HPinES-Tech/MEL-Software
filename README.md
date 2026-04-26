@@ -14,7 +14,7 @@ Before installing this tool, you must know that:
 - This tool is **NOT** a virus. It is 100% safe to use since the file only runs scrcpy, adb, and echo commands. It does not forward your data to some server.
 - This tool can have a long time updating due to Linux distributions support and timezones.
 
-Download it here: https://github.com/HPinES-Tech/MEL-Software/releases/tag/Alpha
+Download this software [here](https://github.com/HPinES-Tech/MEL-Software/releases/tag/Alpha)
 
 This warning section will be removed once we move onto a stable release.
 
