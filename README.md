@@ -111,3 +111,7 @@ adb shell wm size reset
 # These commands resets the orientation type.
 adb shell settings put system user_rotation 0
 ```
+# Contributor's role:
+HPinES Tech: This person's role is to write software in CLI format, create/edit README.md and "Releases" containing software descriptions, and upload them.
+peanutsloveem: This person's role is to write software in Graphics UI format, create/edit README.md and "Releases" containing software descriptions, and upload them.
+*To receive the best support, contact the right person for the software bug you are using (one of the two contributors).*
