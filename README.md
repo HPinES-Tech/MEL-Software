@@ -11,7 +11,7 @@ The tool pointer location is fixed to **~/Downloads/MEL-Software-1.0-Release/Lin
 Before installing this tool, you must know that:
 - This tool is **NOT** yet available on Apple devices due to software limitations.
 - This tool is in stages of **ALPHA.** It's not fully stable. You can head down to the [Troubleshooting section](https://github.com/HPinES-Tech/MEL-Software#troubleshooting) to fix it.
-- This tool is **NOT** a virus. It is 100% safe to use since the file only runs scrcpy, adb, and echo commands. It does not forward your data to some server.
+- This tool is **NOT** a virus. It is 100% safe to use since the file only runs scrcpy, adb, and echo commands. It does not forward your data to any server.
 - This tool can have a long time updating due to Linux distributions support and timezones.
 
 Download this software [here](https://github.com/HPinES-Tech/MEL-Software/releases/tag/Alpha)
