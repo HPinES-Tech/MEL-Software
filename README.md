@@ -90,7 +90,7 @@ Many OSes will be added soon later in the future. For now, contact one of our (t
 # Usage
 - Android: Enable "USB Debugging" in Settings, and allow your PC to make changes.
 - Windows: Extract the .zip file into anywhere ("\Documents" is recommended) and run "Launcher.bat"
-  - For Windows 7, you must use [Vxkex](https://github.com/i486/VxKex) to run the .bat file, because it has reached end of support for modern apps.
+  - For Windows 7, you must use [Vxkex](https://github.com/i486/VxKex) to run the .exe file (G-UI version), because it has reached end of support for modern apps. (Not needed with CLI version)
 - Linux GNOME: Extract the .zip file into anywhere ("\Documents" is recommended) and run "Launcher(.desktop)"
 - Linux Xfce: Extract the .zip file into anywhere ("\Documents" is recommended) and run "Launcher.desktop"
 
