@@ -116,4 +116,4 @@ adb shell settings put system user_rotation 0
 
 - peanutsloveem: This person's role is to write software in Graphics UI format, create/edit README.md and "Releases" containing software descriptions, and upload them. This person adds MacOS and modern Windows support.
 
- - *To receive the best support, contact the right person for the software bug you are using (one of the two contributors).*
+  + *To receive the best support, contact the right person for the software bug you are using (one of the two contributors).*
