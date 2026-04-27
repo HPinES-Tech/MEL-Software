@@ -94,6 +94,8 @@ Many OSes will be added soon later in the future. For now, contact one of our (t
 - Linux GNOME: Extract the .zip file into anywhere ("\Documents" is recommended) and run "Launcher(.desktop)"
 - Linux Xfce: Extract the .zip file into anywhere ("\Documents" is recommended) and run "Launcher.desktop"
 
+  + On Windows, make sure you installed [Google USB Driver](https://developer.android.com/studio/run/win-usb?hl=vi) for Android Devices or [Samsung Android USB Driver](https://developer.samsung.com/android-usb-driver) for Samsung Devices.
+
 # Troubleshooting
 Android: Go to developer settings and change the DPI to your device's normal DPI (one quick Google search)
 
