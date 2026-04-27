@@ -5,7 +5,7 @@ MEL Software (Minecraft Experience Launcher Software) is a tool that can play Mi
 NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
 
 # BUG FOUND!
-The tool pointer location is fixed to **~/Downloads/MEL-Software-1.0-Release/Linux/GNOME/MEL-for-Linux-GNOME/** in the Launcher file for Linux! We will fix this bug soon in version Alpha v1.0.0.2. Sorry for the inconvenience!
+The tool pointer location is fixed to **~/Downloads/MEL-Software-1.0-Release/Linux/GNOME/MEL-for-Linux-GNOME/** in the Launcher file for Linux! We will fix this bug soon in version v1.0.0-alpha.2. Sorry for the inconvenience!
 
 # WARNING!
 Before installing this tool, you must know that:
