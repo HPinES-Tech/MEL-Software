@@ -27,6 +27,9 @@ source ~/.zshrc
 # For Apple Sillicon
 echo 'export PATH="/opt/homebrew/bin:$PATH"' >> ~/.zshrc
 source ~/.zashrc
+
+# And then make executable clickable
+chmod +x dir/to/the/Minecraft Experience Launcher/dist/MEL-Software
 ```
 
 - Linux:
