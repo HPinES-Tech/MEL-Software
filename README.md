@@ -30,10 +30,7 @@ source ~/.zashrc
 ```
 
 - Linux:
-Later.
-
-# BUG FOUND!
-The tool pointer location is fixed to **~/Downloads/MEL-Software-1.0-Release/Linux/GNOME/MEL-for-Linux-GNOME/** in the Launcher file for Linux! We will fix this bug soon in version v1.0.0-alpha.2. Sorry for the inconvenience!
+I'm letting HPinES handle this. - p
 
 # WARNING!
 Before installing this tool, you must know that:
@@ -43,7 +40,7 @@ Before installing this tool, you must know that:
     - *In the meantime, you can also use the .exe file that we have in the latest release.*
 - This tool can have a long time updating due to Linux distributions support and timezones.
 
-Download this software [here](https://github.com/HPinES-Tech/MEL-Software/releases/tag/Alpha)
+Download this software [here](https://github.com/HPinES-Tech/MEL-Software/releases/tag/v1.0.0-alpha.2)
 
 This warning section will be removed once we move onto a stable release.
 
@@ -58,7 +55,7 @@ This is all the following Android devices and computers that we have tested on, 
     - RAM: 8 GB of RAM (RAM Booster: +4 GB) 
     - OS: NothingOS 4.0 (Android 16)
     - MCPE Version: 26.13 (1.26.13.1 – 1.26.14.1)
-    - MEL Version: v1.0.0-alpha.2 (coming soon)
+    - MEL Version: v1.0.0-alpha.2
   - Samsung Galaxy S23 FE
     - Model: SM-S711B
     - Chipset/CPU: Samsung Exynos 2200
@@ -82,7 +79,7 @@ This is all the following Android devices and computers that we have tested on, 
     - RAM: 4 GB of RAM
     - OS: EMUI 8.0.0 (Android 8)
     - MCPE Version: 1.19.83
-    - MEL Version: Alpha v1.0.0.2 (coming soon)
+    - MEL Version: Alpha v1.0.0.2
 
 - OSes:
     - Windows
@@ -100,7 +97,7 @@ This is all the following Android devices and computers that we have tested on, 
         - CPU: Intel Pentium N3710
         - GPU: Intel HD Graphics 405
         - RAM: 8 GB of DDR3
-        - Version: v.1.0.0-alpha.2 (coming soon)
+        - Version: v.1.0.0-alpha.2
 
     - Linux
       - Xubuntu 24.04.2 LTS (Xfce)
@@ -119,7 +116,7 @@ This is all the following Android devices and computers that we have tested on, 
         - CPU: Dual-Core Intel Core i5
         - GPU: Intel Iris Graphics 520
         - RAM: 8 GB of LPDDR3
-        - Version: v1.0.0-alpha.2 (coming soon)
+        - Version: v1.0.0-alpha.2
 
 Many OSes will be added soon later in the future. For now, contact one of our (two) contributors if you have tested it on different builds of OSes and other models of Android phones.
 
