@@ -4,6 +4,34 @@ MEL Software (Minecraft Experience Launcher Software) is a tool that can play Mi
 ![Play Minecraft on Phone via PC](https://github.com/HPinES-Tech/MEL-Software/blob/main/Play%20Mincraft%20in%20phone%20via%20PC.png?raw=true)
 NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
 
+# Installation guide
+- Windows:
+Unzip the .zip file to a folder and open MEL-Software.exe, run it as administrator.
+
+- macOS:
+If you are running any version that's lower than macOS 13, go to the [MacPorts Guide](https://guide.macports.org/) and download your version. And then type the commands below into the terminal:
+```bash
+# You need to download Homebrew in order for this to work.
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+# And then you can download the rest.
+brew install android-platform-tools
+brew install scrcpy
+
+# If the adb commands is not found after install then enter the following commands below.
+
+# Intel Macs
+echo 'export PATH="/usr/local/bin:$PATH"' >> ~/.zshrc
+source ~/.zshrc
+
+# For Apple Sillicon
+echo 'export PATH="/opt/homebrew/bin:$PATH"' >> ~/.zshrc
+source ~/.zashrc
+```
+
+- Linux:
+Later.
+
 # BUG FOUND!
 The tool pointer location is fixed to **~/Downloads/MEL-Software-1.0-Release/Linux/GNOME/MEL-for-Linux-GNOME/** in the Launcher file for Linux! We will fix this bug soon in version v1.0.0-alpha.2. Sorry for the inconvenience!
 
@@ -11,7 +39,8 @@ The tool pointer location is fixed to **~/Downloads/MEL-Software-1.0-Release/Lin
 Before installing this tool, you must know that:
 - This tool is **NOT** yet available on Apple devices due to software limitations.
 - This tool is in stages of **ALPHA.** It's not fully stable. You can head down to the [Troubleshooting section](https://github.com/HPinES-Tech/MEL-Software#troubleshooting) to fix it.
-- This tool is **NOT** a virus. It is 100% safe to use since the file only runs scrcpy, adb, and echo commands. It does not forward your data to any server.
+- This tool is **NOT** a virus. It is 100% safe to use since the .bat file only runs scrcpy, adb, and echo commands. It does not forward your data to any server.
+    - *In the meantime, you can also use the .exe file that we have in the latest release.*
 - This tool can have a long time updating due to Linux distributions support and timezones.
 
 Download this software [here](https://github.com/HPinES-Tech/MEL-Software/releases/tag/Alpha)
@@ -84,6 +113,13 @@ This is all the following Android devices and computers that we have tested on, 
         - GPU: Intel HD Graphics 405
         - RAM: 8 GB of DDR3
         - Version: v.1.0.0-alpha.1
+       
+    - macOS
+      - macOS Monterey (version 12.7.6)
+        - CPU: Dual-Core Intel Core i5
+        - GPU: Intel Iris Graphics 520
+        - RAM: 8 GB of LPDDR3
+        - Version: v1.0.0-alpha.2 (coming soon)
 
 Many OSes will be added soon later in the future. For now, contact one of our (two) contributors if you have tested it on different builds of OSes and other models of Android phones.
 
