@@ -33,7 +33,7 @@ chmod +x dir/to/the/Minecraft Experience Launcher/dist/MEL-Software
 ```
 
 - Linux:
-I'm letting HPinES handle this. - p
+Not there yet.
 
 # WARNING!
 Before installing this tool, you must know that:
@@ -90,7 +90,7 @@ This is all the following Android devices and computers that we have tested on, 
         - CPU: Intel 11th Generation Core i5-11400H
         - GPU: Nvidia GeForce GTX 1650 with Max-Q Design
         - RAM: 8 GB of DDR4
-        - Version: v1.0.0-alpha.2 (coming soon)
+        - Version: v1.0.0-alpha.2
       - Windows 10 22H2 - Home Single Language
         - CPU: Intel Pentium N3710
         - GPU: Intel HD Graphics 405
@@ -136,7 +136,7 @@ Many OSes will be added soon later in the future. For now, contact one of our (t
 # Troubleshooting
 Android: Go to developer settings and change the DPI to your device's normal DPI (one quick Google search)
 
-Windows/Linux (using adb):
+Windows/Linux/macOS (using adb):
 If your phone screen is severely out of order, then please use the commands below.
 - For Windows: use "cd" to your directory where the Tools folder can be found, it is all you need to troubleshoot your problems
 
