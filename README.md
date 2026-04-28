@@ -113,6 +113,7 @@ This is all the following Android devices and computers that we have tested on, 
        
     - macOS
       - macOS Monterey (version 12.7.6)
+        - Model: A1708 (MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports))
         - CPU: Dual-Core Intel Core i5
         - GPU: Intel Iris Graphics 520
         - RAM: 8 GB of LPDDR3
