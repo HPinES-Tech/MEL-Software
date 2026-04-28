@@ -9,7 +9,7 @@ NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR 
 Unzip the .zip file to a folder and open MEL-Software.exe, run it as administrator.
 
 - macOS:
-If you are running any version that's lower than macOS 13, go to the [MacPorts Guide](https://guide.macports.org/) and download your version. And then type the commands below into the terminal:
+If you are running any version that's lower than macOS 13, go to the [MacPorts Guide](https://guide.macports.org/) and download your version, update it every once in a while. And then type the commands below into the terminal:
 ```bash
 # You need to download Homebrew in order for this to work.
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
