@@ -4,6 +4,21 @@ MEL Software (Minecraft Experience Launcher Software) is a tool that can play Mi
 ![Play Minecraft on Phone via PC](https://github.com/HPinES-Tech/MEL-Software/blob/main/Play%20Mincraft%20in%20phone%20via%20PC.png?raw=true)
 NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
 
+# WARNING!
+Before installing this tool, you must know that:
+- This tool is **NOT** yet available on Apple devices due to software limitations.
+- This tool is in stages of **ALPHA.** It's not fully stable. You can head down to the [Troubleshooting section](https://github.com/HPinES-Tech/MEL-Software#troubleshooting) to fix it.
+- This tool is **NOT** a virus. It is 100% safe to use since the .bat file only runs scrcpy, adb, and echo commands. It does not forward your data to any server.
+    - *In the meantime, you can also use the .exe file that we have in the latest release.*
+- This tool can have a long time updating due to Linux distributions support and timezones, we cannot set a release date for the later versions because we might delay it over and over...
+- If you unplug your phone during the session, then it is not our fault that your phone has the highest resolution all of the sudden. (does not mean it's a virus)
+    - To exit the tool, please close the application that is displaying Minecraft, your phone display settings will be reverted back to normal, this is recommended to do so.
+    - If your phone has been affected with the highest resolution, then please head down the [troubleshooting section](https://github.com/HPinES-Tech/MEL-Software#troubleshooting) to fix it.
+
+Download this software [here](https://github.com/HPinES-Tech/MEL-Software/releases/tag/v1.0.0-alpha.2)
+
+This warning section will be removed once we move onto a stable release.
+
 # Installation guide
 - Windows:
   + G-UI: Unzip the .zip file to a folder and open MEL-Software.exe, run it as administrator.
@@ -36,18 +51,6 @@ chmod +x dir/to/the/Minecraft Experience Launcher/dist/MEL-Software
 - Linux:
   + GUI: Not there yet.
   + CLI: soon...
-
-# WARNING!
-Before installing this tool, you must know that:
-- This tool is **NOT** yet available on Apple devices due to software limitations.
-- This tool is in stages of **ALPHA.** It's not fully stable. You can head down to the [Troubleshooting section](https://github.com/HPinES-Tech/MEL-Software#troubleshooting) to fix it.
-- This tool is **NOT** a virus. It is 100% safe to use since the .bat file only runs scrcpy, adb, and echo commands. It does not forward your data to any server.
-    - *In the meantime, you can also use the .exe file that we have in the latest release.*
-- This tool can have a long time updating due to Linux distributions support and timezones, we cannot set a release date for the later versions because we might delay it over and over...
-
-Download this software [here](https://github.com/HPinES-Tech/MEL-Software/releases/tag/v1.0.0-alpha.2)
-
-This warning section will be removed once we move onto a stable release.
 
 # Testing
 This is all the following Android devices and computers that we have tested on, and what version of MEL and MCPE did we test it on.
