@@ -22,8 +22,8 @@ This warning section will be removed once we move onto a stable release.
 
 # Installation guide
 - Windows:
-  + G-UI: Unzip the .zip file to a folder and open MEL-Software.exe, run it as administrator.
-  + CLI: (soon...) Unzip the .zip file to a folder and run Launcher.bat
+  + GUI: Extract the .ZIP file to a folder and open the dist folder, and run MEL-Software.exe (Application type) as Administrator.
+  + CLI: (soon...) Extract the .ZIP file to a folder and run Launcher.bat.
 
 - macOS:
 If you are running any version that's lower than macOS 13, go to the [MacPorts Guide](https://guide.macports.org/) and download your version, update it every once in a while. And then type the commands below into the terminal:
@@ -119,6 +119,11 @@ This is all the following Android devices and computers that we have tested on, 
         - GPU: Intel HD Graphics 405
         - RAM: 8 GB of DDR3
         - Version: v.1.0.0-alpha.1
+      - Ubuntu 24.04.4 LTS (GNOME) (WSL)
+        - CPU: Intel 11th Generation Core i5-11400H
+        - GPU: Nvidia GeForce GTX 1650 with Max-Q Design
+        - RAM: 8 GB of DDR4
+        - Version: v1.0.0-alpha.2
        
     - macOS
       - macOS Monterey (version 12.7.6)
