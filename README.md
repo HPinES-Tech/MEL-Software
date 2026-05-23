@@ -9,7 +9,7 @@ Before installing this tool, you must know that:
 - This tool is **NOT** yet available on Apple devices due to software limitations.
 - This tool is in stages of **ALPHA.** It's not fully stable. You can head down to the [Troubleshooting section](https://github.com/HPinES-Tech/MEL-Software#troubleshooting) to fix it.
 - This tool is **NOT** a virus. It is 100% safe to use since the .bat file only runs scrcpy, adb, and echo commands. It does not forward your data to any server.
-    - If Windows says it could be a virus, do not trust it, in the meantime, you can check out our VirusTotal scan. (will be updated regularly)
+    - If Windows says it could be a virus, do not trust it, in the meantime, you can check out [our VirusTotal scan](https://www.virustotal.com/gui/file/e46405c06f369cebe30e177e400b732bbd2c00d8a2c13b1f1f98dd87b01e9900?nocache=1). (will be updated regularly on each updates)
         - If you're full of shit and paranoia, then you can run the scan yourself by downloading the .ZIP file on Github your own, fuck you.
 - This tool can have a long time updating due to Linux distributions support and timezones, we cannot set a release date for the later versions because we might delay it over and over...
 - If you unplug your phone during the session, then it is not our fault that your phone has the highest resolution all of the sudden. (does not mean it's a virus)
