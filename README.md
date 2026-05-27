@@ -4,7 +4,7 @@ MEL Software (Minecraft Experience Launcher Software) is a tool that can play Mi
 ![Play Minecraft on Phone via PC](https://github.com/HPinES-Tech/MEL-Software/blob/main/Play%20Mincraft%20in%20phone%20via%20PC.png?raw=true)
 NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
 
-# WARNING!
+# ⚠️ WARNING!
 Before installing this tool, you must know that we think you live under a rock and that:
 - This tool is **NOT** yet available on Apple devices due to software limitations.
 - This tool is in stages of **ALPHA.** It's not fully stable. You can head down to the [Troubleshooting section](https://github.com/HPinES-Tech/MEL-Software#troubleshooting) to fix it.
