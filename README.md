@@ -18,7 +18,7 @@ Before installing this tool, you must know that we think you live under a rock a
 
 Download this software [here](https://github.com/HPinES-Tech/MEL-Software/releases/tag/v1.0.0-alpha.2)
 
-This warning section will be removed once we move onto a stable release.
+This warning section will be removed once we move onto a stable release. Our whole installation guide will soon be in the Wiki section.
 
 # Installation guide
 - Windows:
