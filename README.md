@@ -6,7 +6,7 @@ NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR 
 
 # ⚠️ WARNING!
 Before installing this tool, you must know that we think you live under a rock and that:
-- This tool is **NOT** yet available on Apple devices due to software limitations.
+- This tool is **NOT** yet available on iPhone devices due to software limitations.
 - This tool is in stages of **ALPHA.** It's not fully stable. You can head down to the [Troubleshooting section](https://github.com/HPinES-Tech/MEL-Software#troubleshooting) to fix it.
 - This tool is **NOT** a virus. It is 100% safe to use since the .bat file only runs scrcpy, adb, and echo commands. It does not forward your data to any server.
     - If Windows says it could be a virus, do not trust it, in the meantime, you can check out [our VirusTotal scan](https://www.virustotal.com/gui/file/e46405c06f369cebe30e177e400b732bbd2c00d8a2c13b1f1f98dd87b01e9900?nocache=1). (will be updated regularly on each updates)
@@ -15,6 +15,7 @@ Before installing this tool, you must know that we think you live under a rock a
 - If you unplug your phone during the session, then it is not our fault that your phone has the highest resolution all of the sudden. (does not mean it's a virus, you're just an idiot and that's your problem)
     - To exit the tool, please close the application that is displaying Minecraft (by pressing ALT+F4), your phone display settings will be reverted back to normal, this is recommended to do so.
     - If your phone has been affected with the highest resolution, then please head down the [troubleshooting section](https://github.com/HPinES-Tech/MEL-Software#troubleshooting) to fix it.
+- This tool is has **NOT** been tested or ran on an Apple Silicon device, therefore, it is not recommended to do so.
 
 Download this software [here](https://github.com/HPinES-Tech/MEL-Software/releases/tag/v1.0.0-alpha.2)
 
