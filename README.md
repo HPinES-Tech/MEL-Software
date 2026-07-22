@@ -6,6 +6,7 @@ NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR 
 
 # ⚠️ WARNING!
 Before installing this tool, you must know that we think you live under a rock and that:
+- This warning section may contain foul language and insults directly at the ones that doesn't know anything about tech.
 - This tool is **NOT** yet available on iPhone devices due to software limitations.
 - This tool has **NOT** been tested or ran on an Apple Silicon device, therefore, it is not recommended to do so.
 - This tool is in stages of **ALPHA.** It's not fully stable. You can head down to the [Troubleshooting section](https://github.com/HPinES-Tech/MEL-Software#troubleshooting) to fix it.
@@ -16,7 +17,7 @@ Before installing this tool, you must know that we think you live under a rock a
 - If you unplug your phone during the session, then it is not our fault that your phone has the highest resolution all of the sudden. (does not mean it's a virus, you're just an idiot and that's your problem)
     - To exit the tool, please close the application that is displaying Minecraft (by pressing ALT+F4), your phone display settings will be reverted back to normal, this is recommended to do so.
     - If your phone has been affected with the highest resolution, then please head down the [troubleshooting section](https://github.com/HPinES-Tech/MEL-Software#troubleshooting) to fix it.
-- If you think this is a virus, then you shouldn't be on Github in the first place.
+- If you still think this is a virus after all of this, then you shouldn't be on Github in the first place.
 
 This warning section will be removed once we move onto a stable release. Our whole guide is in the [Wiki section](https://github.com/HPinES-Tech/MEL-Software/wiki) of this Github page. In the meantime, go ahead and ownload this software [here](https://github.com/HPinES-Tech/MEL-Software/releases/tag/v1.0.0-alpha.2) at your own risk.
 
