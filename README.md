@@ -18,9 +18,8 @@ Before installing this tool, you must know that we think you live under a rock a
     - If your phone has been affected with the highest resolution, then please head down the [troubleshooting section](https://github.com/HPinES-Tech/MEL-Software#troubleshooting) to fix it.
 - If you think this is a virus, then you shouldn't be on Github in the first place.
 
-Download this software [here](https://github.com/HPinES-Tech/MEL-Software/releases/tag/v1.0.0-alpha.2)
-
 This warning section will be removed once we move onto a stable release. Our whole guide is in the [Wiki section](https://github.com/HPinES-Tech/MEL-Software/wiki) of this Github page.
+Download this software [here](https://github.com/HPinES-Tech/MEL-Software/releases/tag/v1.0.0-alpha.2)
 
 # ⚙️ Troubleshooting
 Android: Go to developer settings and change the DPI to your device's normal DPI (one quick Google search)
