@@ -21,8 +21,6 @@ Before installing this tool, you must know that we think you live under a rock a
 This warning section will be removed once we move onto a stable release. Our whole guide is in the [Wiki section](https://github.com/HPinES-Tech/MEL-Software/wiki) of this Github page. In the meantime, go ahead and ownload this software [here](https://github.com/HPinES-Tech/MEL-Software/releases/tag/v1.0.0-alpha.2) at your own risk.
 
 # ⚙️ Troubleshooting
-Android: Go to developer settings and change the DPI to your device's normal DPI (one quick Google search)
-
 🪟/🐧/🍎 - Windows/Linux/macOS (using adb):
 If your phone screen is severely out of order, then please use the commands below.
 - For Windows: use "cd" to your directory where the Tools folder can be found, it is all you need to troubleshoot your problems
