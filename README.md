@@ -24,7 +24,7 @@ This warning section will be removed once we move onto a stable release. Our who
 # ⚙️ Troubleshooting
 Android: Go to developer settings and change the DPI to your device's normal DPI (one quick Google search)
 
-Windows/Linux/macOS (using adb):
+🪟/🐧/🍎 - Windows/Linux/macOS (using adb):
 If your phone screen is severely out of order, then please use the commands below.
 - For Windows: use "cd" to your directory where the Tools folder can be found, it is all you need to troubleshoot your problems
 
@@ -39,7 +39,7 @@ adb shell wm size reset
 adb shell settings put system user_rotation 0
 ```
 
-macOS (Intel):
+🍎 macOS (Intel):
 If you're having trouble trying to open it, try launching it again, it can sometimes fail due to the hardware limitations.
 
 # 👔 Contributor's J*b
