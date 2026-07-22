@@ -21,7 +21,7 @@ Download this software [here](https://github.com/HPinES-Tech/MEL-Software/releas
 
 This warning section will be removed once we move onto a stable release. Our whole guide is in the [Wiki section](https://github.com/HPinES-Tech/MEL-Software/wiki) of this Github page.
 
-# Troubleshooting
+# ⚙️ Troubleshooting
 Android: Go to developer settings and change the DPI to your device's normal DPI (one quick Google search)
 
 Windows/Linux/macOS (using adb):
@@ -42,8 +42,8 @@ adb shell settings put system user_rotation 0
 macOS (Intel):
 If you're having trouble trying to open it, try launching it again, it can sometimes fail due to the hardware limitations.
 
-# Contributor's role:
-- HPinES Tech: This person's role is to write software in CLI format, create/edit README.md and "Releases" containing software descriptions, and upload them. This person add Linux, macOS and Legacy/Modern Windows support.
+# 👔 Contributor's J*b
+- HPinES Tech: This person's role is to write software in CLI format, create/edit README.md and "Releases" containing software descriptions, and upload them. This person adds Linux, macOS and Legacy/Modern Windows support.
 - peanutsloveem: This person's role is to write software in Graphics UI format, create/edit README.md and "Releases" containing software descriptions, and upload them. This person adds macOS and modern Windows support.
 
 **To receive the best support, contact the right person for the software bug you are using (one of the two contributors).**
