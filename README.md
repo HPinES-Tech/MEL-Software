@@ -6,7 +6,6 @@ NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR 
 
 # ⚠️ WARNING!
 Before installing this tool, you must know that we think you live under a rock and that:
-- This warning section may contain foul language and insults directly at the ones that doesn't know anything about tech.
 - This tool is **NOT** yet available on iPhone devices due to software limitations.
 - This tool has **NOT** been tested or ran on an Apple Silicon device, therefore, it is not recommended to do so.
 - This tool is in stages of **ALPHA.** It's not fully stable. You can head down to the [Troubleshooting section](https://github.com/HPinES-Tech/MEL-Software#troubleshooting) to fix it.
