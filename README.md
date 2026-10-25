@@ -27,7 +27,7 @@ If your phone screen is severely out of order, then please follow this short gui
 - For Windows: use "cd" to your directory where the Tools folder can be found, it is all you need to troubleshoot your problems
 
 ```bash
-# This command lets you use your PC's keyboard/mouse on the device. (if you softlocked it)
+# This command lets you use your PC's keyboard/mouse on the device. Mainly used if you softlocked it and can't enter your password.
 scrcpy --otg
 
 # This command resets the screen resolution.
