@@ -38,7 +38,10 @@ adb shell settings put system user_rotation 0
 ```
 
 🤖 Android:
-Sometimes, resetting the DPI does not work, and you will have to revert it your own by turning on Developer Mode by going to Settings > About Device/Phone > tapping the build number 7 times in a row and enter your password. One quick Google search on about your device's DPI, then go back, System > Developer options, scroll down until you see the option "Smallest width" and set it to your phone's DPI's origianl number. AS for the Nothing Phone (2a) (which I currently have) is 412 dp, so I'll put it 412. And that's it.
+Sometimes, resetting the DPI does not work, and you will have to revert it your own by turning on Developer Mode by going to 
+    Settings > About Device/Phone > tapping the build number 7 times in a row and enter your password.
+    One quick Google search on about your device's DPI
+    Then go back, System > Developer options, scroll down until you see the option "Smallest width" and set it to your phone's DPI's original number.
 
 🍎 macOS (Intel):
 If you're having trouble trying to mirror it via scrcpy, try launching it again, it can sometimes fail due to the hardware limitations.
