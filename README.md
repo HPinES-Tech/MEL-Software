@@ -23,7 +23,7 @@ This warning section will be removed once we move onto a stable release. Our who
 
 # ⚙️ Troubleshooting
 🪟/🐧/🍎 - Windows/Linux/macOS (using adb):
-If your phone screen is severely out of order, then please use the commands below.
+If your phone screen is severely out of order, then please follow this short guide below.
 - For Windows: use "cd" to your directory where the Tools folder can be found, it is all you need to troubleshoot your problems
 
 ```bash
